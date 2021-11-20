@@ -1,0 +1,21 @@
+body {
+  font-family: 'Noto Serif JP', 'Playfair Display', serif;
+  font-weight: 400;
+  background-color: #aed1b7;
+  padding: 2%;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+.card {
+  background-color: #fff4d6;
+  border: 1px black solid;
+  border-radius: 10px;
+  padding: 2%;
+}
+
+.hero, .gif, .footer {
+  text-align: center;
+}
